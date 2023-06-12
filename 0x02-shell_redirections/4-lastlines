@@ -1,2 +1,2 @@
 #!/bin/bash
-cata tail -10 /etc/passwd
+cata tail -n 10 /etc/passwd
